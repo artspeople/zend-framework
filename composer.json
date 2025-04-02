@@ -1,5 +1,5 @@
 {
-    "name": "digital-canvas/zend-framework",
+    "name": "artspeople/zend-framework",
     "type": "library",
     "description": "Zend Framework with only the libraries and require_once() calls commented out for better performance with an autoloader." ,
     "keywords": [
